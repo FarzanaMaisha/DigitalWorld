@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Projects/DigitalWorld/DigitalWorld/Content/ThirdPerson/Blueprints/WBP_HUD.uasset",
+				"D:/Unreal Projects/DigitalWorld/DigitalWorld/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Unreal Projects/DigitalWorld/DigitalWorld/Content/ThirdPerson/Blueprints/WBP_Dialogue.uasset",
+				"D:/Unreal Projects/DigitalWorld/DigitalWorld/Content/ThirdPerson/Blueprints/BP_NPC_GUIDE.uasset"
+			]
+		}
+	]
+}
