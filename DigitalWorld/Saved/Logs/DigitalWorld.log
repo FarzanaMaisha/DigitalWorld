@@ -1662,3 +1662,1263 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.22-16.39.42:332][271]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/WBP_Dialogue_Auto1
 [2026.04.22-16.39.42:332][271]LogSavePackage: Moving 'D:/Unreal Projects/DigitalWorld/DigitalWorld/Saved/WBP_Dialogue_Auto163134866498187EDC64AD0A9C207ACB0.tmp' to 'D:/Unreal Projects/DigitalWorld/DigitalWorld/Saved/Autosaves/Game/ThirdPerson/Blueprints/WBP_Dialogue_Auto1.uasset'
 [2026.04.22-16.39.42:333][271]LogFileHelpers: Auto-saving content packages took 0.017
+[2026.04.22-16.44.38:653][378]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.04.22-16.44.38:683][378]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.04.22-16.44.38:696][378]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.04.22-16.44.38:712][379]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.04.22-16.44.40:776][495]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_FakeProfile
+[2026.04.22-16.44.40:784][495]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.04.22-16.44.41:024][502]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.04.22-16.44.41:125][502]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2026.04.22-16.44.56:728][653]LogPSOHitching: Encountered 500 PSO creation hitches so far (169 graphics, 331 compute). 0 of them were precached.
+[2026.04.22-16.45.04:248][782]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_FakeProfile.WBP_FakeProfile
+[2026.04.22-16.45.04:248][782]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.04.22-16.45.04:263][782]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.04.22-16.45.30:475][125]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1013.563965
+[2026.04.22-16.45.30:559][129]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-16.45.30:559][130]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1013.630920, Update Interval: 351.258270
+[2026.04.22-16.46.06:733][  2]LogSlate: Took 0.007538 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NotoColorEmoji.ttf' (7610K)
+[2026.04.22-16.47.56:655][823]LogSlate: Window 'Color Picker' being destroyed
+[2026.04.22-16.48.08:493][513]LogSlate: Window 'Color Picker' being destroyed
+[2026.04.22-16.48.16:750][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.04.22-16.48.20:664][210]LogSlate: Window 'WBP_FakeProfile' being destroyed
+[2026.04.22-16.48.20:691][210]LogSlate: Window 'WBP_FakeProfile' being destroyed
+[2026.04.22-16.48.20:702][210]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-16.48.20:702][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-16.48.20:708][210]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-16.48.20:708][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-16.48.20:764][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.04.22-16.49.43:148][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.04.22-16.49.43:149][ 14]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.032
+[2026.04.22-16.49.43:150][ 14]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/WBP_FakeProfile] ([2] browsable assets)...
+[2026.04.22-16.49.43:157][ 14]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_FakeProfile.WBP_FakeProfile]
+[2026.04.22-16.49.43:157][ 14]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/WBP_FakeProfile]
+[2026.04.22-16.49.43:164][ 14]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/WBP_FakeProfile_Auto2
+[2026.04.22-16.49.43:164][ 14]LogSavePackage: Moving 'D:/Unreal Projects/DigitalWorld/DigitalWorld/Saved/WBP_FakeProfile_Auto20FF2F3C54137C9E7628EF1A29166873E.tmp' to 'D:/Unreal Projects/DigitalWorld/DigitalWorld/Saved/Autosaves/Game/ThirdPerson/Blueprints/WBP_FakeProfile_Auto2.uasset'
+[2026.04.22-16.49.43:164][ 14]LogFileHelpers: Auto-saving content packages took 0.015
+[2026.04.22-16.50.18:280][168]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_FakeProfile.WBP_FakeProfile
+[2026.04.22-16.50.18:281][168]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.04.22-16.50.18:288][168]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.04.22-16.51.35:830][269]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1378.917480
+[2026.04.22-16.51.35:931][275]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-16.51.35:931][275]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1379.000610, Update Interval: 317.615295
+[2026.04.22-16.55.22:767][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.04.22-16.55.24:399][306]LogSlate: Window 'WBP_FakeProfile' being destroyed
+[2026.04.22-16.55.24:414][306]LogSlate: Window 'WBP_FakeProfile' being destroyed
+[2026.04.22-16.55.24:422][306]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-16.55.24:422][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-16.55.24:429][306]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-16.55.24:429][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-16.55.24:489][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.04.22-16.55.29:569][594]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_Dialogue.WBP_Dialogue
+[2026.04.22-16.55.29:570][594]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.04.22-16.55.29:577][594]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2026.04.22-16.57.11:636][456]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1714.727417
+[2026.04.22-16.57.11:736][462]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-16.57.11:736][462]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1714.809692, Update Interval: 340.657990
+[2026.04.22-16.59.18:614][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.04.22-16.59.29:014][ 16]LogSlate: Window 'WBP_Dialogue' being destroyed
+[2026.04.22-16.59.29:034][ 16]LogSlate: Window 'WBP_Dialogue' being destroyed
+[2026.04.22-16.59.29:040][ 16]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-16.59.29:040][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-16.59.29:047][ 16]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-16.59.29:047][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-16.59.29:104][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.04.22-16.59.35:712][394]LogPSOHitching: Encountered 550 PSO creation hitches so far (205 graphics, 345 compute). 0 of them were precached.
+[2026.04.22-16.59.40:158][636]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.22-16.59.40:164][636]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.22-16.59.40:164][636]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.04.22-16.59.40:164][636]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 774 us (total: 5.693 ms)
+[2026.04.22-16.59.40:165][636]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.22-16.59.40:165][636]LogPlayLevel: Display: Creating online subsystem for client :Context_24
+[2026.04.22-16.59.40:168][636]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2026.04.22-16.59.40:182][637]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.22-16.59.40:190][637]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.22-16.59.40:190][637]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.384 ms (total: 10.414 ms)
+[2026.04.22-16.59.40:190][637]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008128s)
+[2026.04.22-16.59.40:190][637]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.008181s)
+[2026.04.22-16.59.40:222][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.04.22-16.59.40:224][637]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.04.22-16.59.40:225][637]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.22-16.59.40:226][637]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.22-16.59.40:226][637]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.22-16.59.40:226][637]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.22-16.59.40:227][637]LogWorldPartition: Display: WorldPartition initialize took 1.689 ms (total: 114.575 ms)
+[2026.04.22-16.59.40:227][637]LogPlayLevel: PIE: World Init took: (0.003741s)
+[2026.04.22-16.59.40:228][637]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.04.22-16.59.40:228][637]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.22-16.59.40:228][637]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.22-16.59.40:228][637]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.22-16.59.40:228][637]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.22-16.59.40:228][637]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.22-16.59.40:228][637]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.22-16.59.40:228][637]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.22-16.59.40:228][637]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.22-16.59.40:228][637]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.22-16.59.40:228][637]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.22-16.59.40:228][637]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.22-16.59.40:232][637]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.22-16.59.40:290][637]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.22-16.59.40:290][637]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.22-16.59.40:290][637]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.22-16.59.40:290][637]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.22-16.59.40:291][637]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.04.22-16.59.40:291][637]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.04.22-16.59.40:295][637]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.04.22-16.59.40:295][637]LogInit: FAudioDevice initialized with ID 8.
+[2026.04.22-16.59.40:295][637]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.04.22-16.59.40:295][637]LogAudio: Display: Audio Device (ID: 8) registered with world 'Lvl_ThirdPerson'.
+[2026.04.22-16.59.40:295][637]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.04.22-16.59.40:300][637]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.22-16.59.40:302][637]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 60) at 2026.04.22-12.59.40
+[2026.04.22-16.59.40:302][637]LogWorld: Bringing up level for play took: 0.002412
+[2026.04.22-16.59.40:309][637]PIE: Server logged in
+[2026.04.22-16.59.40:312][637]PIE: Play in editor total start time 0.148 seconds.
+[2026.04.22-16.59.40:367][638]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.22-16.59.51:742][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.04.22-16.59.54:163][296]LogSlate: Window 'Save Content' being destroyed
+[2026.04.22-16.59.54:874][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-16.59.54:874][333]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.22-16.59.54:874][333]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-16.59.54:875][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-16.59.54:875][333]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.04.22-16.59.54:878][333]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.22-16.59.54:882][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-16.59.54:918][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-16.59.54:918][333]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.04.22-16.59.54:918][333]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2026.04.22-16.59.54:921][333]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2026.04.22-16.59.54:930][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.04.22-16.59.54:953][334]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2026.04.22-17.00.05:640][461]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.22-17.00.05:647][461]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.22-17.00.05:647][461]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.04.22-17.00.05:647][461]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 854 us (total: 6.547 ms)
+[2026.04.22-17.00.05:648][461]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.22-17.00.05:648][461]LogPlayLevel: Display: Creating online subsystem for client :Context_25
+[2026.04.22-17.00.05:652][461]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2026.04.22-17.00.05:669][462]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.22-17.00.05:676][462]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.22-17.00.05:678][462]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.380 ms (total: 11.794 ms)
+[2026.04.22-17.00.05:678][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007729s)
+[2026.04.22-17.00.05:678][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.007777s)
+[2026.04.22-17.00.05:706][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.04.22-17.00.05:708][462]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.04.22-17.00.05:710][462]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.22-17.00.05:710][462]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.22-17.00.05:710][462]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.22-17.00.05:710][462]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.22-17.00.05:711][462]LogWorldPartition: Display: WorldPartition initialize took 1.647 ms (total: 116.222 ms)
+[2026.04.22-17.00.05:711][462]LogPlayLevel: PIE: World Init took: (0.003459s)
+[2026.04.22-17.00.05:713][462]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.04.22-17.00.05:713][462]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.22-17.00.05:713][462]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.22-17.00.05:713][462]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.22-17.00.05:713][462]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.22-17.00.05:713][462]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.22-17.00.05:713][462]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.22-17.00.05:713][462]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.22-17.00.05:713][462]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.22-17.00.05:713][462]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.22-17.00.05:713][462]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.22-17.00.05:713][462]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.22-17.00.05:716][462]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.22-17.00.05:787][462]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.22-17.00.05:788][462]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.22-17.00.05:788][462]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.22-17.00.05:788][462]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.22-17.00.05:788][462]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.04.22-17.00.05:788][462]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.04.22-17.00.05:791][462]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.04.22-17.00.05:791][462]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.04.22-17.00.05:791][462]LogInit: FAudioDevice initialized with ID 9.
+[2026.04.22-17.00.05:791][462]LogAudio: Display: Audio Device (ID: 9) registered with world 'Lvl_ThirdPerson'.
+[2026.04.22-17.00.05:791][462]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.04.22-17.00.05:795][462]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.22-17.00.05:798][462]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 60) at 2026.04.22-13.00.05
+[2026.04.22-17.00.05:798][462]LogWorld: Bringing up level for play took: 0.002246
+[2026.04.22-17.00.05:804][462]PIE: Server logged in
+[2026.04.22-17.00.05:807][462]PIE: Play in editor total start time 0.16 seconds.
+[2026.04.22-17.00.05:872][463]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.22-17.00.40:173][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-17.00.40:173][511]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.22-17.00.40:173][511]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-17.00.40:174][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-17.00.40:174][511]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.04.22-17.00.40:176][511]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.22-17.00.40:182][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-17.00.40:213][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-17.00.40:213][511]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.04.22-17.00.40:213][511]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2026.04.22-17.00.40:216][511]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2026.04.22-17.00.40:227][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.04.22-17.00.40:302][512]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2026.04.22-17.01.10:539][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.04.22-17.01.10:540][921]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.025
+[2026.04.22-17.01.10:542][921]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/WBP_Dialogue] ([2] browsable assets)...
+[2026.04.22-17.01.10:546][921]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_Dialogue.WBP_Dialogue]
+[2026.04.22-17.01.10:546][921]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/WBP_Dialogue]
+[2026.04.22-17.01.10:554][921]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/WBP_Dialogue_Auto3
+[2026.04.22-17.01.10:554][921]LogSavePackage: Moving 'D:/Unreal Projects/DigitalWorld/DigitalWorld/Saved/WBP_Dialogue_Auto34E33AA104273A9FD4C02D8BD9922AAE5.tmp' to 'D:/Unreal Projects/DigitalWorld/DigitalWorld/Saved/Autosaves/Game/ThirdPerson/Blueprints/WBP_Dialogue_Auto3.uasset'
+[2026.04.22-17.01.10:557][921]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/WBP_FakeProfile] ([2] browsable assets)...
+[2026.04.22-17.01.10:562][921]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_FakeProfile.WBP_FakeProfile]
+[2026.04.22-17.01.10:562][921]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/WBP_FakeProfile]
+[2026.04.22-17.01.10:568][921]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/WBP_FakeProfile_Auto3
+[2026.04.22-17.01.10:568][921]LogSavePackage: Moving 'D:/Unreal Projects/DigitalWorld/DigitalWorld/Saved/WBP_FakeProfile_Auto348EFDE5345458877D9D011B38B0E1470.tmp' to 'D:/Unreal Projects/DigitalWorld/DigitalWorld/Saved/Autosaves/Game/ThirdPerson/Blueprints/WBP_FakeProfile_Auto3.uasset'
+[2026.04.22-17.01.10:568][921]LogFileHelpers: Auto-saving content packages took 0.027
+[2026.04.22-17.01.18:810][956]LogPSOHitching: Encountered 600 PSO creation hitches so far (224 graphics, 376 compute). 0 of them were precached.
+[2026.04.22-17.01.24:864][306]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_FakeProfile.WBP_FakeProfile
+[2026.04.22-17.01.24:864][306]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2026.04.22-17.01.24:871][306]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2026.04.22-17.02.04:361][599]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.02.04:361][599]LogSlate: Last resort fallback font was requested. Font: '/Engine/EngineFonts/Faces/DroidSansFallback.DroidSansFallback', Character: '⚠ (U+26a0)'
+[2026.04.22-17.02.04:368][599]LogSlate: Took 0.005831 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.04.22-17.02.04:376][599]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.02.31:095][914]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-17.02.31:188][914]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/WBP_FakeProfile] ([2] browsable assets)...
+[2026.04.22-17.02.31:192][914]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_FakeProfile.WBP_FakeProfile]
+[2026.04.22-17.02.31:192][914]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/WBP_FakeProfile]
+[2026.04.22-17.02.31:192][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/WBP_FakeProfile" FILE="D:/Unreal Projects/DigitalWorld/DigitalWorld/Content/ThirdPerson/Blueprints/WBP_FakeProfile.uasset" SILENT=true
+[2026.04.22-17.02.31:199][914]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/WBP_FakeProfile
+[2026.04.22-17.02.31:199][914]LogSavePackage: Moving 'D:/Unreal Projects/DigitalWorld/DigitalWorld/Saved/WBP_FakeProfileB5D7101442E04687F35343AF144B72B1.tmp' to 'D:/Unreal Projects/DigitalWorld/DigitalWorld/Content/ThirdPerson/Blueprints/WBP_FakeProfile.uasset'
+[2026.04.22-17.02.31:220][914]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.712 ms
+[2026.04.22-17.02.31:326][914]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-17.02.31:326][914]LogContentValidation: Enabled validators:
+[2026.04.22-17.02.31:326][914]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-17.02.31:326][914]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-17.02.31:326][914]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-17.02.31:326][914]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-17.02.31:326][914]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-17.02.31:326][914]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-17.02.31:327][914]AssetCheck: /Game/ThirdPerson/Blueprints/WBP_FakeProfile Validating asset
+[2026.04.22-17.02.31:360][914]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Unreal Projects/DigitalWorld/DigitalWorld/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.22-17.03.04:718][165]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.03.24:788][932]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2087.883301
+[2026.04.22-17.03.24:905][939]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-17.03.24:905][939]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2087.980957, Update Interval: 338.610809
+[2026.04.22-17.04.03:070][209]LogSlate: Window 'Color Picker' being destroyed
+[2026.04.22-17.04.09:407][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2026.04.22-17.04.09:603][374]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.04.09:603][374]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.04.18:035][861]LogSlate: Window 'Color Picker' being destroyed
+[2026.04.22-17.04.28:203][461]LogSlate: Window 'Color Picker' being destroyed
+[2026.04.22-17.04.30:517][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.04.22-17.04.30:705][594]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.04.30:705][594]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.04.32:008][668]LogSlate: Window 'WBP_FakeProfile' being destroyed
+[2026.04.22-17.04.32:021][668]LogSlate: Window 'WBP_FakeProfile' being destroyed
+[2026.04.22-17.04.32:032][668]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-17.04.32:032][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-17.04.32:038][668]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-17.04.32:038][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-17.04.32:097][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.04.22-17.04.33:700][763]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.22-17.04.33:708][763]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.22-17.04.33:708][763]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.04.22-17.04.33:709][763]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 969 us (total: 7.517 ms)
+[2026.04.22-17.04.33:709][763]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.22-17.04.33:709][763]LogPlayLevel: Display: Creating online subsystem for client :Context_28
+[2026.04.22-17.04.33:712][763]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2026.04.22-17.04.33:733][764]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.22-17.04.33:739][764]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.22-17.04.33:740][764]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.334 ms (total: 13.128 ms)
+[2026.04.22-17.04.33:741][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007773s)
+[2026.04.22-17.04.33:741][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.007822s)
+[2026.04.22-17.04.33:767][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.04.22-17.04.33:769][764]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.04.22-17.04.33:770][764]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.22-17.04.33:770][764]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.22-17.04.33:770][764]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.22-17.04.33:770][764]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.22-17.04.33:772][764]LogWorldPartition: Display: WorldPartition initialize took 1.998 ms (total: 118.221 ms)
+[2026.04.22-17.04.33:772][764]LogPlayLevel: PIE: World Init took: (0.004126s)
+[2026.04.22-17.04.33:773][764]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.04.22-17.04.33:773][764]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.22-17.04.33:773][764]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.22-17.04.33:773][764]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.22-17.04.33:773][764]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.22-17.04.33:773][764]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.22-17.04.33:773][764]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.22-17.04.33:775][764]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.22-17.04.33:775][764]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.22-17.04.33:775][764]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.22-17.04.33:775][764]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.22-17.04.33:775][764]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.22-17.04.33:776][764]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.22-17.04.33:832][764]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.22-17.04.33:832][764]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.22-17.04.33:832][764]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.22-17.04.33:832][764]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.22-17.04.33:833][764]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.04.22-17.04.33:833][764]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.04.22-17.04.33:836][764]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.04.22-17.04.33:836][764]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.04.22-17.04.33:836][764]LogInit: FAudioDevice initialized with ID 10.
+[2026.04.22-17.04.33:836][764]LogAudio: Display: Audio Device (ID: 10) registered with world 'Lvl_ThirdPerson'.
+[2026.04.22-17.04.33:836][764]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.04.22-17.04.33:841][764]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.22-17.04.33:844][764]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 60) at 2026.04.22-13.04.33
+[2026.04.22-17.04.33:844][764]LogWorld: Bringing up level for play took: 0.002249
+[2026.04.22-17.04.33:849][764]PIE: Server logged in
+[2026.04.22-17.04.33:852][764]PIE: Play in editor total start time 0.144 seconds.
+[2026.04.22-17.04.33:914][765]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.22-17.04.34:120][766]LogPSOHitching: Encountered 650 PSO creation hitches so far (248 graphics, 402 compute). 0 of them were precached.
+[2026.04.22-17.04.38:697][ 29]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.04.38:697][ 29]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.04.42:938][275]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.04.42:939][275]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.04.44:545][363]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.04.44:545][363]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.05.36:624][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-17.05.36:624][722]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.22-17.05.36:624][722]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-17.05.36:626][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-17.05.36:626][722]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.04.22-17.05.36:639][722]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.22-17.05.36:644][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-17.05.36:683][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-17.05.36:683][722]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.04.22-17.05.36:683][722]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2026.04.22-17.05.36:687][722]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2026.04.22-17.05.36:697][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2026.04.22-17.05.36:840][723]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2026.04.22-17.05.41:205][954]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_FakeProfile.WBP_FakeProfile
+[2026.04.22-17.05.41:206][954]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2026.04.22-17.05.41:214][954]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2026.04.22-17.05.41:851][954]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.05.41:852][954]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.05.41:860][955]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.05.41:862][955]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.05.41:875][955]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.05.41:875][955]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.05.41:904][956]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.05.41:905][956]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.09.34:472][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.04.22-17.09.41:598][709]LogSlate: Window 'WBP_FakeProfile' being destroyed
+[2026.04.22-17.09.41:655][709]LogSlate: Window 'WBP_FakeProfile' being destroyed
+[2026.04.22-17.09.41:662][709]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-17.09.41:662][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-17.09.41:669][709]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-17.09.41:669][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-17.09.41:726][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.04.22-17.09.42:469][753]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.22-17.09.42:473][753]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.22-17.09.42:473][753]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.04.22-17.09.42:474][753]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 822 us (total: 8.339 ms)
+[2026.04.22-17.09.42:474][753]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.22-17.09.42:474][753]LogPlayLevel: Display: Creating online subsystem for client :Context_31
+[2026.04.22-17.09.42:477][753]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2026.04.22-17.09.42:497][754]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.22-17.09.42:505][754]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.22-17.09.42:506][754]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.398 ms (total: 14.527 ms)
+[2026.04.22-17.09.42:506][754]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008606s)
+[2026.04.22-17.09.42:506][754]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.008660s)
+[2026.04.22-17.09.42:540][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2026.04.22-17.09.42:542][754]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.04.22-17.09.42:543][754]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.22-17.09.42:543][754]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.22-17.09.42:543][754]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.22-17.09.42:543][754]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.22-17.09.42:545][754]LogWorldPartition: Display: WorldPartition initialize took 1.644 ms (total: 119.866 ms)
+[2026.04.22-17.09.42:545][754]LogPlayLevel: PIE: World Init took: (0.003588s)
+[2026.04.22-17.09.42:546][754]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.04.22-17.09.42:546][754]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.22-17.09.42:546][754]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.22-17.09.42:546][754]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.22-17.09.42:546][754]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.22-17.09.42:546][754]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.22-17.09.42:546][754]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.22-17.09.42:546][754]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.22-17.09.42:546][754]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.22-17.09.42:546][754]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.22-17.09.42:546][754]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.22-17.09.42:546][754]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.22-17.09.42:548][754]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.22-17.09.42:607][754]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.22-17.09.42:608][754]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.22-17.09.42:608][754]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.22-17.09.42:608][754]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.22-17.09.42:608][754]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2026.04.22-17.09.42:608][754]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.04.22-17.09.42:612][754]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.04.22-17.09.42:612][754]LogInit: FAudioDevice initialized with ID 11.
+[2026.04.22-17.09.42:612][754]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2026.04.22-17.09.42:612][754]LogAudio: Display: Audio Device (ID: 11) registered with world 'Lvl_ThirdPerson'.
+[2026.04.22-17.09.42:612][754]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.04.22-17.09.42:618][754]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.22-17.09.42:620][754]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 60) at 2026.04.22-13.09.42
+[2026.04.22-17.09.42:620][754]LogWorld: Bringing up level for play took: 0.002365
+[2026.04.22-17.09.42:627][754]PIE: Server logged in
+[2026.04.22-17.09.42:629][754]PIE: Play in editor total start time 0.156 seconds.
+[2026.04.22-17.09.42:690][755]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.22-17.09.42:759][755]LogPSOHitching: Encountered 700 PSO creation hitches so far (280 graphics, 420 compute). 0 of them were precached.
+[2026.04.22-17.09.44:774][856]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.09.44:774][856]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.09.47:103][996]LogBlueprintUserMessages: [WBP_FakeProfile_C_0] "CORRECT! You spotted FakeFriend! Well done!"
+[2026.04.22-17.09.51:823][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-17.09.51:823][276]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.22-17.09.51:823][276]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-17.09.51:824][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-17.09.51:824][276]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.04.22-17.09.51:827][276]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.22-17.09.51:834][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-17.09.51:869][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-17.09.51:870][276]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.04.22-17.09.51:870][276]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2026.04.22-17.09.51:873][276]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2026.04.22-17.09.51:880][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2026.04.22-17.09.51:952][277]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2026.04.22-17.09.52:507][309]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.22-17.09.52:513][309]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.22-17.09.52:514][309]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.04.22-17.09.52:514][309]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 854 us (total: 9.194 ms)
+[2026.04.22-17.09.52:515][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.22-17.09.52:515][309]LogPlayLevel: Display: Creating online subsystem for client :Context_32
+[2026.04.22-17.09.52:518][309]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2026.04.22-17.09.52:536][310]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.22-17.09.52:542][310]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.22-17.09.52:543][310]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.319 ms (total: 15.846 ms)
+[2026.04.22-17.09.52:543][310]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007736s)
+[2026.04.22-17.09.52:543][310]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.007781s)
+[2026.04.22-17.09.52:584][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.04.22-17.09.52:585][310]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.04.22-17.09.52:588][310]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.22-17.09.52:588][310]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.22-17.09.52:588][310]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.22-17.09.52:588][310]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.22-17.09.52:589][310]LogWorldPartition: Display: WorldPartition initialize took 1.724 ms (total: 121.590 ms)
+[2026.04.22-17.09.52:590][310]LogPlayLevel: PIE: World Init took: (0.003654s)
+[2026.04.22-17.09.52:590][310]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2026.04.22-17.09.52:590][310]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.22-17.09.52:590][310]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.22-17.09.52:590][310]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.22-17.09.52:590][310]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.22-17.09.52:590][310]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.22-17.09.52:590][310]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.22-17.09.52:590][310]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.22-17.09.52:590][310]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.22-17.09.52:590][310]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.22-17.09.52:590][310]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.22-17.09.52:590][310]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.22-17.09.52:592][310]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.22-17.09.52:650][310]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.22-17.09.52:650][310]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.22-17.09.52:650][310]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.22-17.09.52:650][310]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.22-17.09.52:650][310]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2026.04.22-17.09.52:650][310]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2026.04.22-17.09.52:654][310]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2026.04.22-17.09.52:654][310]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2026.04.22-17.09.52:654][310]LogInit: FAudioDevice initialized with ID 12.
+[2026.04.22-17.09.52:654][310]LogAudio: Display: Audio Device (ID: 12) registered with world 'Lvl_ThirdPerson'.
+[2026.04.22-17.09.52:654][310]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2026.04.22-17.09.52:659][310]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.22-17.09.52:662][310]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 60) at 2026.04.22-13.09.52
+[2026.04.22-17.09.52:662][310]LogWorld: Bringing up level for play took: 0.002672
+[2026.04.22-17.09.52:668][310]PIE: Server logged in
+[2026.04.22-17.09.52:670][310]PIE: Play in editor total start time 0.156 seconds.
+[2026.04.22-17.09.52:738][311]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.22-17.09.53:662][363]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2476.754639
+[2026.04.22-17.09.53:779][370]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-17.09.53:779][370]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2476.854492, Update Interval: 341.846375
+[2026.04.22-17.09.54:345][404]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.09.54:345][404]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.09.55:240][458]LogBlueprintUserMessages: [WBP_FakeProfile_C_0] "WRONG! You accepted a fake profile! Health -25"
+[2026.04.22-17.09.59:783][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-17.09.59:783][728]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.22-17.09.59:783][728]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-17.09.59:784][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-17.09.59:784][728]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.04.22-17.09.59:786][728]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.22-17.09.59:790][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-17.09.59:825][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-17.09.59:825][728]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2026.04.22-17.09.59:825][728]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2026.04.22-17.09.59:828][728]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2026.04.22-17.09.59:838][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.04.22-17.09.59:907][729]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2026.04.22-17.10.09:485][880]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.22-17.10.09:489][880]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.22-17.10.09:490][880]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.04.22-17.10.09:490][880]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 727 us (total: 9.921 ms)
+[2026.04.22-17.10.09:490][880]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.22-17.10.09:491][880]LogPlayLevel: Display: Creating online subsystem for client :Context_33
+[2026.04.22-17.10.09:494][880]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2026.04.22-17.10.09:510][881]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.22-17.10.09:518][881]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.22-17.10.09:519][881]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.347 ms (total: 17.194 ms)
+[2026.04.22-17.10.09:519][881]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007810s)
+[2026.04.22-17.10.09:519][881]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.007853s)
+[2026.04.22-17.10.09:552][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.04.22-17.10.09:553][881]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.04.22-17.10.09:555][881]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.22-17.10.09:555][881]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.22-17.10.09:555][881]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.22-17.10.09:555][881]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.22-17.10.09:557][881]LogWorldPartition: Display: WorldPartition initialize took 1.644 ms (total: 123.234 ms)
+[2026.04.22-17.10.09:557][881]LogPlayLevel: PIE: World Init took: (0.003575s)
+[2026.04.22-17.10.09:558][881]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2026.04.22-17.10.09:558][881]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.22-17.10.09:558][881]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.22-17.10.09:558][881]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.22-17.10.09:558][881]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.22-17.10.09:558][881]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.22-17.10.09:558][881]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.22-17.10.09:558][881]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.22-17.10.09:558][881]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.22-17.10.09:558][881]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.22-17.10.09:558][881]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.22-17.10.09:558][881]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.22-17.10.09:560][881]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.22-17.10.09:616][881]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.22-17.10.09:617][881]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.22-17.10.09:617][881]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.22-17.10.09:617][881]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.22-17.10.09:617][881]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2026.04.22-17.10.09:617][881]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2026.04.22-17.10.09:620][881]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2026.04.22-17.10.09:621][881]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2026.04.22-17.10.09:621][881]LogInit: FAudioDevice initialized with ID 13.
+[2026.04.22-17.10.09:621][881]LogAudio: Display: Audio Device (ID: 13) registered with world 'Lvl_ThirdPerson'.
+[2026.04.22-17.10.09:621][881]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2026.04.22-17.10.09:626][881]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.22-17.10.09:628][881]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 60) at 2026.04.22-13.10.09
+[2026.04.22-17.10.09:628][881]LogWorld: Bringing up level for play took: 0.002303
+[2026.04.22-17.10.09:635][881]PIE: Server logged in
+[2026.04.22-17.10.09:638][881]PIE: Play in editor total start time 0.148 seconds.
+[2026.04.22-17.10.09:702][882]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.22-17.10.14:967][192]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.10.14:967][192]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.10.16:095][260]LogBlueprintUserMessages: [WBP_FakeProfile_C_0] "CORRECT! You spotted FakeFriend! Well done!"
+[2026.04.22-17.10.30:504][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-17.10.30:504][450]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.22-17.10.30:504][450]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-17.10.30:506][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-17.10.30:506][450]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.04.22-17.10.30:509][450]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.22-17.10.30:514][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-17.10.30:547][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-17.10.30:548][450]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2026.04.22-17.10.30:548][450]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=4
+[2026.04.22-17.10.30:550][450]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=2
+[2026.04.22-17.10.30:562][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.04.22-17.10.30:633][451]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2026.04.22-17.10.40:573][760]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.22-17.10.40:581][760]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.22-17.10.40:581][760]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.04.22-17.10.40:582][760]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.113 ms (total: 11.035 ms)
+[2026.04.22-17.10.40:583][760]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.22-17.10.40:583][760]LogPlayLevel: Display: Creating online subsystem for client :Context_34
+[2026.04.22-17.10.40:587][760]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2026.04.22-17.10.40:604][761]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.22-17.10.40:610][761]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.22-17.10.40:612][761]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.304 ms (total: 18.498 ms)
+[2026.04.22-17.10.40:612][761]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007611s)
+[2026.04.22-17.10.40:612][761]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.007656s)
+[2026.04.22-17.10.40:636][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.04.22-17.10.40:638][761]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.04.22-17.10.40:640][761]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.22-17.10.40:640][761]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.22-17.10.40:640][761]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.22-17.10.40:640][761]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.22-17.10.40:642][761]LogWorldPartition: Display: WorldPartition initialize took 1.632 ms (total: 124.866 ms)
+[2026.04.22-17.10.40:642][761]LogPlayLevel: PIE: World Init took: (0.003520s)
+[2026.04.22-17.10.40:643][761]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2026.04.22-17.10.40:643][761]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.22-17.10.40:643][761]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.22-17.10.40:643][761]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.22-17.10.40:643][761]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.22-17.10.40:643][761]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.22-17.10.40:643][761]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.22-17.10.40:643][761]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.22-17.10.40:643][761]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.22-17.10.40:643][761]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.22-17.10.40:643][761]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.22-17.10.40:643][761]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.22-17.10.40:646][761]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.22-17.10.40:713][761]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.22-17.10.40:713][761]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.22-17.10.40:713][761]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.22-17.10.40:713][761]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.22-17.10.40:714][761]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2026.04.22-17.10.40:714][761]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2026.04.22-17.10.40:717][761]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2026.04.22-17.10.40:717][761]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2026.04.22-17.10.40:717][761]LogInit: FAudioDevice initialized with ID 14.
+[2026.04.22-17.10.40:717][761]LogAudio: Display: Audio Device (ID: 14) registered with world 'Lvl_ThirdPerson'.
+[2026.04.22-17.10.40:717][761]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2026.04.22-17.10.40:722][761]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.22-17.10.40:725][761]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 60) at 2026.04.22-13.10.40
+[2026.04.22-17.10.40:725][761]LogWorld: Bringing up level for play took: 0.002497
+[2026.04.22-17.10.40:730][761]PIE: Server logged in
+[2026.04.22-17.10.40:734][761]PIE: Play in editor total start time 0.153 seconds.
+[2026.04.22-17.10.40:792][762]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.22-17.10.42:925][885]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.10.42:925][885]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.10.44:737][994]LogBlueprintUserMessages: [WBP_FakeProfile_C_0] "WRONG! You accepted a fake profile! Health -25"
+[2026.04.22-17.11.48:874][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-17.11.48:874][501]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.22-17.11.48:874][501]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-17.11.48:876][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-17.11.48:876][501]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.04.22-17.11.48:880][501]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.22-17.11.48:887][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-17.11.48:914][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-17.11.48:915][501]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2026.04.22-17.11.48:915][501]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=4
+[2026.04.22-17.11.48:918][501]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=2
+[2026.04.22-17.11.48:929][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.04.22-17.11.49:009][502]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2026.04.22-17.11.53:523][740]LogPSOHitching: Encountered 750 PSO creation hitches so far (295 graphics, 455 compute). 0 of them were precached.
+[2026.04.22-17.12.05:461][445]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.04.22-17.12.05:562][445]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2026.04.22-17.13.59:578][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.04.22-17.13.59:581][243]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.035
+[2026.04.22-17.13.59:581][243]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/WBP_FakeProfile] ([2] browsable assets)...
+[2026.04.22-17.13.59:582][243]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.13.59:582][243]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.13.59:582][243]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.13.59:583][243]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.13.59:589][243]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_FakeProfile.WBP_FakeProfile]
+[2026.04.22-17.13.59:589][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/WBP_FakeProfile]
+[2026.04.22-17.13.59:598][243]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/WBP_FakeProfile_Auto4
+[2026.04.22-17.13.59:598][243]LogSavePackage: Moving 'D:/Unreal Projects/DigitalWorld/DigitalWorld/Saved/WBP_FakeProfile_Auto4AAC1BFC8417CABD1781B48A810F68A74.tmp' to 'D:/Unreal Projects/DigitalWorld/DigitalWorld/Saved/Autosaves/Game/ThirdPerson/Blueprints/WBP_FakeProfile_Auto4.uasset'
+[2026.04.22-17.13.59:598][243]LogFileHelpers: Auto-saving content packages took 0.017
+[2026.04.22-17.16.18:056][549]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2861.150391
+[2026.04.22-17.16.18:138][553]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-17.16.18:138][553]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2861.217041, Update Interval: 343.877075
+[2026.04.22-17.22.51:542][866]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3254.630615
+[2026.04.22-17.22.51:658][873]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-17.22.51:658][874]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3254.729492, Update Interval: 327.878662
+[2026.04.22-17.28.27:720][606]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_FakeProfile.WBP_FakeProfile
+[2026.04.22-17.28.27:720][606]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
+[2026.04.22-17.28.27:749][606]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2026.04.22-17.28.28:376][606]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.28.28:376][606]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.28.28:383][607]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.28.28:383][607]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.28.28:386][607]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.28.28:386][607]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.28.28:401][608]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.28.28:401][608]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.28.51:267][976]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3614.356445
+[2026.04.22-17.28.51:366][982]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-17.28.51:366][982]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3614.439453, Update Interval: 320.565216
+[2026.04.22-17.30.32:543][ 53]LogDerivedDataCache: C:/Users/fmais/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.22-17.34.51:451][503]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3974.529541
+[2026.04.22-17.34.51:566][510]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-17.34.51:566][510]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3974.628174, Update Interval: 302.753998
+[2026.04.22-17.38.02:601][961]LogEditorTransaction: Undo Edit Left
+[2026.04.22-17.38.02:802][961]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.38.02:802][961]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.38.37:051][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2026.04.22-17.38.37:053][829]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.059
+[2026.04.22-17.38.37:054][829]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/WBP_Dialogue] ([2] browsable assets)...
+[2026.04.22-17.38.37:054][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/WBP_Dialogue]
+[2026.04.22-17.38.37:061][829]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/WBP_Dialogue_Auto5
+[2026.04.22-17.38.37:061][829]LogSavePackage: Moving 'D:/Unreal Projects/DigitalWorld/DigitalWorld/Saved/WBP_Dialogue_Auto541E11E0842B966D2C6EB24B5647B3A30.tmp' to 'D:/Unreal Projects/DigitalWorld/DigitalWorld/Saved/Autosaves/Game/ThirdPerson/Blueprints/WBP_Dialogue_Auto5.uasset'
+[2026.04.22-17.38.37:062][829]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/WBP_FakeProfile] ([2] browsable assets)...
+[2026.04.22-17.38.37:063][829]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.38.37:063][829]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.38.37:063][829]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.38.37:063][829]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.38.37:066][829]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_FakeProfile.WBP_FakeProfile]
+[2026.04.22-17.38.37:066][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/WBP_FakeProfile]
+[2026.04.22-17.38.37:074][829]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/WBP_FakeProfile_Auto5
+[2026.04.22-17.38.37:074][829]LogSavePackage: Moving 'D:/Unreal Projects/DigitalWorld/DigitalWorld/Saved/WBP_FakeProfile_Auto57B83D4A547761327C2434A997A0DD970.tmp' to 'D:/Unreal Projects/DigitalWorld/DigitalWorld/Saved/Autosaves/Game/ThirdPerson/Blueprints/WBP_FakeProfile_Auto5.uasset'
+[2026.04.22-17.38.37:074][829]LogFileHelpers: Auto-saving content packages took 0.021
+[2026.04.22-17.40.42:442][979]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4325.508301
+[2026.04.22-17.40.42:539][985]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-17.40.42:539][985]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4325.592285, Update Interval: 316.979889
+[2026.04.22-17.46.09:562][353]LogSlate: Window 'Color Picker' being destroyed
+[2026.04.22-17.46.54:506][596]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4697.603516
+[2026.04.22-17.46.55:505][599]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-17.46.55:505][599]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4698.268066, Update Interval: 357.507874
+[2026.04.22-17.47.43:660][602]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 200600
+[2026.04.22-17.47.43:660][602]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2026.04.22-17.47.43:671][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-17.48.16:658][544]LogEditorTransaction: Undo Create Pin Link
+[2026.04.22-17.48.52:179][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2026.04.22-17.48.53:761][734]LogSlate: Window 'WBP_FakeProfile' being destroyed
+[2026.04.22-17.48.53:784][734]LogSlate: Window 'WBP_FakeProfile' being destroyed
+[2026.04.22-17.48.53:823][734]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-17.48.53:823][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-17.48.53:830][734]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-17.48.53:830][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-17.48.53:890][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.04.22-17.48.55:110][803]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.22-17.48.55:116][803]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.22-17.48.55:116][803]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.04.22-17.48.55:117][803]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 782 us (total: 11.817 ms)
+[2026.04.22-17.48.55:117][803]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.22-17.48.55:117][803]LogPlayLevel: Display: Creating online subsystem for client :Context_37
+[2026.04.22-17.48.55:120][803]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2026.04.22-17.48.55:138][804]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.22-17.48.55:147][804]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.22-17.48.55:149][804]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.869 ms (total: 20.368 ms)
+[2026.04.22-17.48.55:149][804]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010750s)
+[2026.04.22-17.48.55:149][804]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.010810s)
+[2026.04.22-17.48.55:182][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.04.22-17.48.55:184][804]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.04.22-17.48.55:186][804]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.22-17.48.55:186][804]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.22-17.48.55:186][804]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.22-17.48.55:186][804]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.22-17.48.55:188][804]LogWorldPartition: Display: WorldPartition initialize took 1.739 ms (total: 126.606 ms)
+[2026.04.22-17.48.55:188][804]LogPlayLevel: PIE: World Init took: (0.003935s)
+[2026.04.22-17.48.55:188][804]LogPSOHitching: Encountered 800 PSO creation hitches so far (330 graphics, 470 compute). 0 of them were precached.
+[2026.04.22-17.48.55:189][804]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2026.04.22-17.48.55:189][804]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.22-17.48.55:189][804]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.22-17.48.55:189][804]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.22-17.48.55:189][804]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.22-17.48.55:189][804]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.22-17.48.55:189][804]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.22-17.48.55:189][804]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.22-17.48.55:189][804]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.22-17.48.55:189][804]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.22-17.48.55:189][804]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.22-17.48.55:189][804]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.22-17.48.55:191][804]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.22-17.48.55:265][804]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.22-17.48.55:265][804]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.22-17.48.55:265][804]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.22-17.48.55:265][804]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.22-17.48.55:266][804]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2026.04.22-17.48.55:266][804]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2026.04.22-17.48.55:269][804]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2026.04.22-17.48.55:269][804]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2026.04.22-17.48.55:269][804]LogInit: FAudioDevice initialized with ID 15.
+[2026.04.22-17.48.55:269][804]LogAudio: Display: Audio Device (ID: 15) registered with world 'Lvl_ThirdPerson'.
+[2026.04.22-17.48.55:269][804]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2026.04.22-17.48.55:275][804]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.22-17.48.55:278][804]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 60) at 2026.04.22-13.48.55
+[2026.04.22-17.48.55:278][804]LogWorld: Bringing up level for play took: 0.003427
+[2026.04.22-17.48.55:285][804]PIE: Server logged in
+[2026.04.22-17.48.55:288][804]PIE: Play in editor total start time 0.173 seconds.
+[2026.04.22-17.48.55:349][805]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.22-17.48.57:551][913]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.48.57:551][913]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.48.59:981][ 59]LogBlueprintUserMessages: [WBP_FakeProfile_C_0] "WRONG! You accepted a fake profile! Health -25"
+[2026.04.22-17.49.05:574][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-17.49.05:574][392]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.22-17.49.05:575][392]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-17.49.05:576][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-17.49.05:576][392]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.04.22-17.49.05:578][392]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.22-17.49.05:581][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-17.49.05:611][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-17.49.05:612][392]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2026.04.22-17.49.05:612][392]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=4
+[2026.04.22-17.49.05:615][392]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
+[2026.04.22-17.49.05:623][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.04.22-17.49.05:696][393]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2026.04.22-17.49.07:190][481]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.22-17.49.07:196][481]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.22-17.49.07:196][481]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.04.22-17.49.07:197][481]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 712 us (total: 12.530 ms)
+[2026.04.22-17.49.07:197][481]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.22-17.49.07:197][481]LogPlayLevel: Display: Creating online subsystem for client :Context_38
+[2026.04.22-17.49.07:200][481]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2026.04.22-17.49.07:220][482]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.22-17.49.07:227][482]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.22-17.49.07:228][482]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.420 ms (total: 21.788 ms)
+[2026.04.22-17.49.07:228][482]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008036s)
+[2026.04.22-17.49.07:228][482]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.008093s)
+[2026.04.22-17.49.07:263][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.04.22-17.49.07:265][482]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.04.22-17.49.07:267][482]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.22-17.49.07:267][482]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.22-17.49.07:267][482]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.22-17.49.07:267][482]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.22-17.49.07:268][482]LogWorldPartition: Display: WorldPartition initialize took 1.659 ms (total: 128.266 ms)
+[2026.04.22-17.49.07:268][482]LogPlayLevel: PIE: World Init took: (0.003637s)
+[2026.04.22-17.49.07:269][482]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2026.04.22-17.49.07:269][482]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.22-17.49.07:269][482]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.22-17.49.07:269][482]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.22-17.49.07:269][482]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.22-17.49.07:269][482]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.22-17.49.07:269][482]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.22-17.49.07:269][482]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.22-17.49.07:269][482]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.22-17.49.07:269][482]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.22-17.49.07:269][482]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.22-17.49.07:269][482]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.22-17.49.07:273][482]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.22-17.49.07:332][482]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.22-17.49.07:332][482]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.22-17.49.07:332][482]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.22-17.49.07:332][482]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.22-17.49.07:333][482]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2026.04.22-17.49.07:333][482]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2026.04.22-17.49.07:336][482]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2026.04.22-17.49.07:336][482]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2026.04.22-17.49.07:336][482]LogInit: FAudioDevice initialized with ID 16.
+[2026.04.22-17.49.07:336][482]LogAudio: Display: Audio Device (ID: 16) registered with world 'Lvl_ThirdPerson'.
+[2026.04.22-17.49.07:336][482]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2026.04.22-17.49.07:341][482]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.22-17.49.07:343][482]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 60) at 2026.04.22-13.49.07
+[2026.04.22-17.49.07:343][482]LogWorld: Bringing up level for play took: 0.002234
+[2026.04.22-17.49.07:349][482]PIE: Server logged in
+[2026.04.22-17.49.07:352][482]PIE: Play in editor total start time 0.156 seconds.
+[2026.04.22-17.49.07:413][483]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.22-17.49.10:307][654]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.49.10:307][654]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.49.11:969][754]LogBlueprintUserMessages: [WBP_FakeProfile_C_0] "WRONG! You accepted a fake profile! Health -25"
+[2026.04.22-17.49.16:424][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-17.49.16:424][ 19]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.22-17.49.16:424][ 19]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-17.49.16:425][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-17.49.16:425][ 19]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.04.22-17.49.16:428][ 19]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.22-17.49.16:431][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-17.49.16:466][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-17.49.16:466][ 19]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2026.04.22-17.49.16:466][ 19]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=4
+[2026.04.22-17.49.16:469][ 19]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=2
+[2026.04.22-17.49.16:479][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.04.22-17.49.16:550][ 20]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2026.04.22-17.49.18:492][133]LogPSOHitching: Encountered 850 PSO creation hitches so far (344 graphics, 506 compute). 0 of them were precached.
+[2026.04.22-17.49.22:206][290]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_FakeProfile.WBP_FakeProfile
+[2026.04.22-17.49.22:206][290]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2026.04.22-17.49.22:215][290]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2026.04.22-17.49.22:865][290]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.49.22:866][290]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.49.22:874][291]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.49.22:874][291]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.49.22:878][291]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.49.22:878][291]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.49.22:891][292]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.49.22:891][292]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.51.39:651][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.04.22-17.51.41:346][318]LogSlate: Window 'WBP_FakeProfile' being destroyed
+[2026.04.22-17.51.41:364][318]LogSlate: Window 'WBP_FakeProfile' being destroyed
+[2026.04.22-17.51.41:371][318]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-17.51.41:371][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-17.51.41:378][318]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-17.51.41:378][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-17.51.41:445][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.04.22-17.51.42:960][407]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.22-17.51.42:967][407]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.22-17.51.42:967][407]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.04.22-17.51.42:968][407]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 821 us (total: 13.351 ms)
+[2026.04.22-17.51.42:968][407]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.22-17.51.42:968][407]LogPlayLevel: Display: Creating online subsystem for client :Context_41
+[2026.04.22-17.51.42:971][407]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2026.04.22-17.51.42:989][408]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.22-17.51.42:995][408]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.22-17.51.42:996][408]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.389 ms (total: 23.178 ms)
+[2026.04.22-17.51.42:996][408]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007922s)
+[2026.04.22-17.51.42:996][408]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.007976s)
+[2026.04.22-17.51.43:035][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.04.22-17.51.43:037][408]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.04.22-17.51.43:039][408]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.22-17.51.43:039][408]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.22-17.51.43:039][408]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.22-17.51.43:039][408]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.22-17.51.43:041][408]LogWorldPartition: Display: WorldPartition initialize took 2.152 ms (total: 130.418 ms)
+[2026.04.22-17.51.43:041][408]LogPlayLevel: PIE: World Init took: (0.004329s)
+[2026.04.22-17.51.43:043][408]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2026.04.22-17.51.43:044][408]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.22-17.51.43:044][408]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.22-17.51.43:044][408]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.22-17.51.43:044][408]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.22-17.51.43:044][408]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.22-17.51.43:044][408]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.22-17.51.43:044][408]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.22-17.51.43:044][408]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.22-17.51.43:044][408]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.22-17.51.43:044][408]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.22-17.51.43:044][408]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.22-17.51.43:046][408]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.22-17.51.43:103][408]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.22-17.51.43:104][408]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.22-17.51.43:104][408]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.22-17.51.43:104][408]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.22-17.51.43:104][408]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2026.04.22-17.51.43:104][408]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2026.04.22-17.51.43:108][408]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2026.04.22-17.51.43:108][408]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2026.04.22-17.51.43:108][408]LogInit: FAudioDevice initialized with ID 17.
+[2026.04.22-17.51.43:108][408]LogAudio: Display: Audio Device (ID: 17) registered with world 'Lvl_ThirdPerson'.
+[2026.04.22-17.51.43:108][408]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2026.04.22-17.51.43:114][408]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.22-17.51.43:117][408]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 60) at 2026.04.22-13.51.43
+[2026.04.22-17.51.43:117][408]LogWorld: Bringing up level for play took: 0.002306
+[2026.04.22-17.51.43:123][408]PIE: Server logged in
+[2026.04.22-17.51.43:126][408]PIE: Play in editor total start time 0.16 seconds.
+[2026.04.22-17.51.43:189][409]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.22-17.51.43:368][410]LogPSOHitching: Encountered 900 PSO creation hitches so far (365 graphics, 535 compute). 0 of them were precached.
+[2026.04.22-17.51.44:929][490]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.51.44:929][490]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.51.52:475][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-17.51.52:475][941]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.22-17.51.52:475][941]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-17.51.52:476][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-17.51.52:476][941]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.04.22-17.51.52:478][941]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.22-17.51.52:483][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-17.51.52:508][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-17.51.52:509][941]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2026.04.22-17.51.52:509][941]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=4
+[2026.04.22-17.51.52:512][941]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=2
+[2026.04.22-17.51.52:519][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.04.22-17.51.52:590][942]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2026.04.22-17.51.56:850][180]LogContentBrowser: Attempting asset rename: WBP_FakeProfile -> WBP_FakeProfile
+[2026.04.22-17.51.57:032][187]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_FakeProfile.WBP_FakeProfile
+[2026.04.22-17.51.57:032][187]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2026.04.22-17.51.57:077][187]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2026.04.22-17.51.57:717][187]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.51.57:717][187]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.51.57:726][188]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.51.57:726][188]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.51.57:729][188]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.51.57:729][188]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.51.57:746][189]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.51.57:746][189]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.53.14:963][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2026.04.22-17.53.14:965][730]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.069
+[2026.04.22-17.53.14:965][730]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/WBP_Dialogue] ([2] browsable assets)...
+[2026.04.22-17.53.14:965][730]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/WBP_Dialogue]
+[2026.04.22-17.53.14:973][730]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/WBP_Dialogue_Auto6
+[2026.04.22-17.53.14:976][730]LogSavePackage: Moving 'D:/Unreal Projects/DigitalWorld/DigitalWorld/Saved/WBP_Dialogue_Auto63DA3E317451DF2A342E8C3A321FDDD97.tmp' to 'D:/Unreal Projects/DigitalWorld/DigitalWorld/Saved/Autosaves/Game/ThirdPerson/Blueprints/WBP_Dialogue_Auto6.uasset'
+[2026.04.22-17.53.14:976][730]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/WBP_FakeProfile] ([2] browsable assets)...
+[2026.04.22-17.53.14:977][730]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.53.14:977][730]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.53.14:978][730]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.53.14:978][730]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.53.14:985][730]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_FakeProfile.WBP_FakeProfile]
+[2026.04.22-17.53.14:985][730]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/WBP_FakeProfile]
+[2026.04.22-17.53.14:993][730]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/WBP_FakeProfile_Auto6
+[2026.04.22-17.53.14:993][730]LogSavePackage: Moving 'D:/Unreal Projects/DigitalWorld/DigitalWorld/Saved/WBP_FakeProfile_Auto6710682A543017C86C68F4FAA319D5B07.tmp' to 'D:/Unreal Projects/DigitalWorld/DigitalWorld/Saved/Autosaves/Game/ThirdPerson/Blueprints/WBP_FakeProfile_Auto6.uasset'
+[2026.04.22-17.53.14:993][730]LogFileHelpers: Auto-saving content packages took 0.029
+[2026.04.22-17.53.40:359][711]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5103.426758
+[2026.04.22-17.53.40:459][717]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-17.53.40:459][717]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5103.510254, Update Interval: 354.134949
+[2026.04.22-17.56.11:294][680]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_HUD.WBP_HUD
+[2026.04.22-17.56.11:294][680]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2026.04.22-17.56.11:302][680]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2026.04.22-17.56.16:737][961]LogSlate: Window 'WBP_HUD' being destroyed
+[2026.04.22-17.56.16:754][961]LogSlate: Window 'WBP_HUD' being destroyed
+[2026.04.22-17.56.16:761][961]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-17.56.16:761][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-17.56.16:768][961]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-17.56.16:768][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-17.56.16:794][961]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-17.56.16:794][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-17.56.16:800][961]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-17.56.16:800][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-17.56.16:872][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.04.22-17.56.22:150][262]LogContentBrowser: Attempting asset rename: WBP_FakeProfile -> WBP_FakeProfile
+[2026.04.22-17.56.22:306][268]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_FakeProfile.WBP_FakeProfile
+[2026.04.22-17.56.22:306][268]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2026.04.22-17.56.22:314][268]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2026.04.22-17.56.22:939][268]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.56.22:939][268]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.56.22:956][269]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.56.22:957][269]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.56.22:961][269]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.56.22:961][269]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.56.22:971][270]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.56.22:971][270]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.57.19:611][591]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_HUD.WBP_HUD
+[2026.04.22-17.57.19:612][591]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2026.04.22-17.57.19:620][591]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_45
+[2026.04.22-17.57.54:776][603]LogSlate: Window 'WBP_HUD' being destroyed
+[2026.04.22-17.57.54:802][603]LogSlate: Window 'WBP_HUD' being destroyed
+[2026.04.22-17.57.54:810][603]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-17.57.54:810][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-17.57.54:819][603]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-17.57.54:819][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-17.57.54:848][603]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-17.57.54:848][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-17.57.54:855][603]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-17.57.54:855][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-17.57.55:008][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.04.22-17.57.57:458][738]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_HUD.WBP_HUD
+[2026.04.22-17.57.57:458][738]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_46
+[2026.04.22-17.57.57:466][738]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_47
+[2026.04.22-17.59.05:587][914]LogSlate: Window 'WBP_HUD' being destroyed
+[2026.04.22-17.59.05:615][914]LogSlate: Window 'WBP_HUD' being destroyed
+[2026.04.22-17.59.05:626][914]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-17.59.05:627][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-17.59.05:638][914]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-17.59.05:639][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-17.59.05:720][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2026.04.22-17.59.15:565][417]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_FakeProfile.WBP_FakeProfile
+[2026.04.22-17.59.15:566][417]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_48
+[2026.04.22-17.59.15:574][417]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_49
+[2026.04.22-17.59.16:317][417]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.59.16:317][417]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.59.16:325][418]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.59.16:325][418]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.59.16:329][418]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.59.16:329][418]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.59.16:341][419]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-17.59.16:341][419]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-18.00.32:890][887]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5515.934082
+[2026.04.22-18.00.33:007][894]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-18.00.33:007][894]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5516.034180, Update Interval: 343.514526
+[2026.04.22-18.01.26:313][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.04.22-18.01.29:154][186]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.22-18.01.29:162][186]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.22-18.01.29:162][186]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.04.22-18.01.29:163][186]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.026 ms (total: 14.378 ms)
+[2026.04.22-18.01.29:163][186]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.22-18.01.29:163][186]LogPlayLevel: Display: Creating online subsystem for client :Context_54
+[2026.04.22-18.01.29:166][186]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2026.04.22-18.01.29:185][187]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.22-18.01.29:192][187]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.22-18.01.29:192][187]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.353 ms (total: 24.531 ms)
+[2026.04.22-18.01.29:192][187]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007907s)
+[2026.04.22-18.01.29:192][187]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.007959s)
+[2026.04.22-18.01.29:237][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2026.04.22-18.01.29:241][187]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.04.22-18.01.29:243][187]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.22-18.01.29:244][187]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.22-18.01.29:244][187]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.22-18.01.29:244][187]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.22-18.01.29:245][187]LogWorldPartition: Display: WorldPartition initialize took 1.735 ms (total: 132.154 ms)
+[2026.04.22-18.01.29:245][187]LogPlayLevel: PIE: World Init took: (0.004018s)
+[2026.04.22-18.01.29:246][187]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2026.04.22-18.01.29:246][187]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.22-18.01.29:246][187]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.22-18.01.29:246][187]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.22-18.01.29:246][187]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.22-18.01.29:246][187]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.22-18.01.29:246][187]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.22-18.01.29:246][187]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.22-18.01.29:246][187]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.22-18.01.29:246][187]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.22-18.01.29:246][187]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.22-18.01.29:246][187]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.22-18.01.29:249][187]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.22-18.01.29:308][187]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.22-18.01.29:308][187]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.22-18.01.29:308][187]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.22-18.01.29:308][187]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.22-18.01.29:309][187]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2026.04.22-18.01.29:309][187]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2026.04.22-18.01.29:311][187]LogInit: FAudioDevice initialized with ID 18.
+[2026.04.22-18.01.29:311][187]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2026.04.22-18.01.29:311][187]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2026.04.22-18.01.29:311][187]LogAudio: Display: Audio Device (ID: 18) registered with world 'Lvl_ThirdPerson'.
+[2026.04.22-18.01.29:311][187]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2026.04.22-18.01.29:318][187]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.22-18.01.29:321][187]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 60) at 2026.04.22-14.01.29
+[2026.04.22-18.01.29:321][187]LogWorld: Bringing up level for play took: 0.002938
+[2026.04.22-18.01.29:327][187]PIE: Server logged in
+[2026.04.22-18.01.29:330][187]PIE: Play in editor total start time 0.169 seconds.
+[2026.04.22-18.01.29:397][188]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.22-18.01.29:465][188]LogPSOHitching: Encountered 950 PSO creation hitches so far (390 graphics, 560 compute). 0 of them were precached.
+[2026.04.22-18.01.31:350][282]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-18.01.31:350][282]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-18.01.39:445][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-18.01.39:445][766]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.22-18.01.39:445][766]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-18.01.39:446][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-18.01.39:447][766]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.04.22-18.01.39:450][766]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.22-18.01.39:454][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-18.01.39:486][766]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.22-18.01.39:486][766]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2026.04.22-18.01.39:486][766]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=4
+[2026.04.22-18.01.39:489][766]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=2
+[2026.04.22-18.01.39:493][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-18.01.39:496][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.04.22-18.01.39:627][767]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2026.04.22-18.03.25:712][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.04.22-18.03.25:715][573]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.033
+[2026.04.22-18.03.25:716][573]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/WBP_FakeProfile] ([2] browsable assets)...
+[2026.04.22-18.03.25:716][573]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-18.03.25:717][573]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-18.03.25:717][573]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-18.03.25:717][573]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-18.03.25:720][573]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_FakeProfile.WBP_FakeProfile]
+[2026.04.22-18.03.25:720][573]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/WBP_FakeProfile]
+[2026.04.22-18.03.25:730][573]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/WBP_FakeProfile_Auto7
+[2026.04.22-18.03.25:730][573]LogSavePackage: Moving 'D:/Unreal Projects/DigitalWorld/DigitalWorld/Saved/WBP_FakeProfile_Auto7D1939FD348C67A818423CAAC45D97F06.tmp' to 'D:/Unreal Projects/DigitalWorld/DigitalWorld/Saved/Autosaves/Game/ThirdPerson/Blueprints/WBP_FakeProfile_Auto7.uasset'
+[2026.04.22-18.03.25:730][573]LogFileHelpers: Auto-saving content packages took 0.014
+[2026.04.22-18.03.49:192][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.04.22-18.03.50:193][691]LogSlate: Window 'WBP_FakeProfile' being destroyed
+[2026.04.22-18.03.50:208][691]LogSlate: Window 'WBP_FakeProfile' being destroyed
+[2026.04.22-18.03.50:216][691]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-18.03.50:216][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-18.03.50:221][691]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-18.03.50:221][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-18.03.50:279][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.04.22-18.03.50:969][731]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.22-18.03.50:975][731]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.22-18.03.50:975][731]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.04.22-18.03.50:975][731]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 666 us (total: 15.044 ms)
+[2026.04.22-18.03.50:975][731]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.22-18.03.51:003][731]LogPlayLevel: Display: Creating online subsystem for client :Context_55
+[2026.04.22-18.03.51:006][731]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2026.04.22-18.03.51:025][732]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.22-18.03.51:034][732]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.22-18.03.51:036][732]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.014 ms (total: 26.546 ms)
+[2026.04.22-18.03.51:036][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012037s)
+[2026.04.22-18.03.51:036][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.012094s)
+[2026.04.22-18.03.51:052][732]LogPSOHitching: Encountered 1000 PSO creation hitches so far (408 graphics, 592 compute). 0 of them were precached.
+[2026.04.22-18.03.51:073][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.04.22-18.03.51:076][732]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.04.22-18.03.51:078][732]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.22-18.03.51:078][732]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.22-18.03.51:078][732]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.22-18.03.51:078][732]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.22-18.03.51:079][732]LogWorldPartition: Display: WorldPartition initialize took 1.633 ms (total: 133.788 ms)
+[2026.04.22-18.03.51:080][732]LogPlayLevel: PIE: World Init took: (0.003749s)
+[2026.04.22-18.03.51:080][732]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2026.04.22-18.03.51:080][732]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.22-18.03.51:080][732]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.22-18.03.51:080][732]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.22-18.03.51:080][732]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.22-18.03.51:080][732]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.22-18.03.51:080][732]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.22-18.03.51:080][732]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.22-18.03.51:080][732]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.22-18.03.51:080][732]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.22-18.03.51:081][732]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.22-18.03.51:081][732]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.22-18.03.51:083][732]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.22-18.03.51:140][732]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.22-18.03.51:140][732]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.22-18.03.51:140][732]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.22-18.03.51:140][732]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.22-18.03.51:140][732]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2026.04.22-18.03.51:140][732]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2026.04.22-18.03.51:144][732]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2026.04.22-18.03.51:144][732]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2026.04.22-18.03.51:144][732]LogInit: FAudioDevice initialized with ID 19.
+[2026.04.22-18.03.51:144][732]LogAudio: Display: Audio Device (ID: 19) registered with world 'Lvl_ThirdPerson'.
+[2026.04.22-18.03.51:144][732]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2026.04.22-18.03.51:150][732]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.22-18.03.51:153][732]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 60) at 2026.04.22-14.03.51
+[2026.04.22-18.03.51:153][732]LogWorld: Bringing up level for play took: 0.002212
+[2026.04.22-18.03.51:158][732]PIE: Server logged in
+[2026.04.22-18.03.51:161][732]PIE: Play in editor total start time 0.187 seconds.
+[2026.04.22-18.03.51:221][733]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.22-18.03.53:154][825]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-18.03.53:154][825]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-18.03.54:316][895]LogBlueprintUserMessages: [WBP_FakeProfile_C_0] "WRONG! You accepted a fake profile! Health -25"
+[2026.04.22-18.03.57:654][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-18.03.57:654][ 93]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.22-18.03.57:654][ 93]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-18.03.57:655][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-18.03.57:655][ 93]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.04.22-18.03.57:657][ 93]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.22-18.03.57:662][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-18.03.57:697][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-18.03.57:697][ 93]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2026.04.22-18.03.57:698][ 93]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=4
+[2026.04.22-18.03.57:700][ 93]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=2
+[2026.04.22-18.03.57:707][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.04.22-18.03.57:777][ 94]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2026.04.22-18.03.57:807][ 94]LogPSOHitching: Encountered 1050 PSO creation hitches so far (423 graphics, 627 compute). 0 of them were precached.
+[2026.04.22-18.04.06:841][517]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_FakeProfile.WBP_FakeProfile
+[2026.04.22-18.04.06:841][517]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_52
+[2026.04.22-18.04.06:849][517]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_53
+[2026.04.22-18.04.07:472][517]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-18.04.07:472][517]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-18.04.07:479][518]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-18.04.07:479][518]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-18.04.07:485][518]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-18.04.07:485][518]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-18.04.07:498][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-18.04.07:498][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-18.05.51:084][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.04.22-18.05.59:949][133]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.22-18.05.59:956][133]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.22-18.05.59:956][133]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.04.22-18.05.59:956][133]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 761 us (total: 15.806 ms)
+[2026.04.22-18.05.59:957][133]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.22-18.05.59:957][133]LogPlayLevel: Display: Creating online subsystem for client :Context_58
+[2026.04.22-18.05.59:960][133]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2026.04.22-18.05.59:976][134]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.22-18.05.59:984][134]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.22-18.05.59:985][134]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.517 ms (total: 28.063 ms)
+[2026.04.22-18.05.59:985][134]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008489s)
+[2026.04.22-18.05.59:985][134]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.008535s)
+[2026.04.22-18.06.00:013][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.04.22-18.06.00:017][134]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.04.22-18.06.00:019][134]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.22-18.06.00:020][134]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.22-18.06.00:020][134]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.22-18.06.00:020][134]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.22-18.06.00:021][134]LogWorldPartition: Display: WorldPartition initialize took 1.711 ms (total: 135.499 ms)
+[2026.04.22-18.06.00:021][134]LogPlayLevel: PIE: World Init took: (0.003941s)
+[2026.04.22-18.06.00:023][134]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2026.04.22-18.06.00:023][134]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.22-18.06.00:023][134]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.22-18.06.00:023][134]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.22-18.06.00:023][134]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.22-18.06.00:023][134]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.22-18.06.00:023][134]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.22-18.06.00:023][134]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.22-18.06.00:023][134]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.22-18.06.00:023][134]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.22-18.06.00:023][134]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.22-18.06.00:023][134]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.22-18.06.00:026][134]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.22-18.06.00:080][134]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.22-18.06.00:081][134]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.22-18.06.00:081][134]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.22-18.06.00:081][134]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.22-18.06.00:081][134]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2026.04.22-18.06.00:081][134]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2026.04.22-18.06.00:085][134]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2026.04.22-18.06.00:085][134]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2026.04.22-18.06.00:085][134]LogInit: FAudioDevice initialized with ID 20.
+[2026.04.22-18.06.00:085][134]LogAudio: Display: Audio Device (ID: 20) registered with world 'Lvl_ThirdPerson'.
+[2026.04.22-18.06.00:085][134]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2026.04.22-18.06.00:090][134]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.22-18.06.00:093][134]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 60) at 2026.04.22-14.06.00
+[2026.04.22-18.06.00:093][134]LogWorld: Bringing up level for play took: 0.002812
+[2026.04.22-18.06.00:099][134]PIE: Server logged in
+[2026.04.22-18.06.00:101][134]PIE: Play in editor total start time 0.146 seconds.
+[2026.04.22-18.06.00:162][135]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.22-18.06.00:361][136]LogPSOHitching: Encountered 1100 PSO creation hitches so far (443 graphics, 657 compute). 0 of them were precached.
+[2026.04.22-18.06.01:602][197]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+26a0, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-18.06.01:602][197]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+1f60a, getting last resort font data F:\Perforce\Releases\4.24\Engine\Content\Slate\Fonts\DroidSansFallback.ttf
+[2026.04.22-18.06.05:464][429]LogBlueprintUserMessages: [WBP_FakeProfile_C_0] "CORRECT! You spotted FakeFriend! Well done!"
+[2026.04.22-18.06.08:795][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-18.06.08:795][626]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.22-18.06.08:795][626]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-18.06.08:796][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-18.06.08:796][626]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.04.22-18.06.08:798][626]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.22-18.06.08:802][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-18.06.08:826][626]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.22-18.06.08:826][626]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2026.04.22-18.06.08:826][626]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=4
+[2026.04.22-18.06.08:829][626]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=2
+[2026.04.22-18.06.08:836][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-18.06.08:839][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.04.22-18.06.08:910][627]LogPlayLevel: Display: Destroying online subsystem :Context_58
