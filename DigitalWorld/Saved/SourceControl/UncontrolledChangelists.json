@@ -7,9 +7,26 @@
 			"files": [
 				"D:/Unreal Projects/DigitalWorld/DigitalWorld/Content/ThirdPerson/Blueprints/WBP_HUD.uasset",
 				"D:/Unreal Projects/DigitalWorld/DigitalWorld/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"D:/Unreal Projects/DigitalWorld/DigitalWorld/Content/ThirdPerson/Blueprints/WBP_Dialogue.uasset",
 				"D:/Unreal Projects/DigitalWorld/DigitalWorld/Content/ThirdPerson/Blueprints/BP_NPC_GUIDE.uasset",
-				"D:/Unreal Projects/DigitalWorld/DigitalWorld/Content/ThirdPerson/Blueprints/WBP_FakeProfile.uasset"
+				"D:/Unreal Projects/DigitalWorld/DigitalWorld/Content/Maps/Lvl_GamingArena.umap",
+				"D:/Unreal Projects/DigitalWorld/DigitalWorld/Content/ThirdPerson/Blueprints/WBP_Scam_L2.uasset",
+				"D:/Unreal Projects/DigitalWorld/DigitalWorld/Content/ThirdPerson/Blueprints/WBP_Dialogue_L2.uasset",
+				"D:/Unreal Projects/DigitalWorld/DigitalWorld/Content/ThirdPerson/Blueprints/BP_GameInstance.uasset",
+				"D:/Unreal Projects/DigitalWorld/DigitalWorld/Content/ThirdPerson/Lvl_ThirdPerson.umap",
+				"D:/Unreal Projects/DigitalWorld/DigitalWorld/Content/ThirdPerson/Blueprints/WBP_Consequence_Good_L1.uasset",
+				"D:/Unreal Projects/DigitalWorld/DigitalWorld/Content/ThirdPerson/Blueprints/WBP_Consequence_Bad_L1.uasset",
+				"D:/Unreal Projects/DigitalWorld/DigitalWorld/Content/ThirdPerson/Blueprints/WBP_Dialogue_L1.uasset",
+				"D:/Unreal Projects/DigitalWorld/DigitalWorld/Content/ThirdPerson/Blueprints/WBP_Consequence_Bad_L2.uasset",
+				"D:/Unreal Projects/DigitalWorld/DigitalWorld/Content/ThirdPerson/Blueprints/WBP_Consequence_Good_L2.uasset",
+				"D:/Unreal Projects/DigitalWorld/DigitalWorld/Content/CityPark/Maps/Showcase.umap",
+				"D:/Unreal Projects/DigitalWorld/DigitalWorld/Content/ThirdPerson/Blueprints/WBP_FakeProfile_L1.uasset",
+				"D:/Unreal Projects/DigitalWorld/DigitalWorld/Content/ThirdPerson/Blueprints/BP_QuizTrigger.uasset",
+				"D:/Unreal Projects/DigitalWorld/DigitalWorld/Content/ThirdPerson/Blueprints/WBP_Quiz2.uasset",
+				"D:/Unreal Projects/DigitalWorld/DigitalWorld/Content/ThirdPerson/Blueprints/WBP_FakeProfile.uasset",
+				"D:/Unreal Projects/DigitalWorld/DigitalWorld/Content/ThirdPerson/Blueprints/WBP_Dialogue.uasset",
+				"D:/Unreal Projects/DigitalWorld/DigitalWorld/Content/ThirdPerson/Blueprints/WBP_Consequence_L1.uasset",
+				"D:/Unreal Projects/DigitalWorld/DigitalWorld/Content/BP_GameInstance.uasset",
+				"D:/Unreal Projects/DigitalWorld/DigitalWorld/Content/Lvl_GamingArena.umap"
 			]
 		}
 	]

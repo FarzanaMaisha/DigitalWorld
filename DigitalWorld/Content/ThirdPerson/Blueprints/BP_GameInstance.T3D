@@ -1,0 +1,18 @@
+Begin Object Class=/Script/Engine.Blueprint Name="BP_GameInstance" ExportPath="/Script/Engine.Blueprint'/Game/BP_GameInstance.BP_GameInstance'"
+   Begin Object Class=/Script/Engine.EdGraph Name="EventGraph" ExportPath="/Script/Engine.EdGraph'/Game/BP_GameInstance.BP_GameInstance:EventGraph'"
+   End Object
+   Begin Object Name="EventGraph" ExportPath="/Script/Engine.EdGraph'/Game/BP_GameInstance.BP_GameInstance:EventGraph'"
+      Schema="/Script/CoreUObject.Class'/Script/BlueprintGraph.EdGraphSchema_K2'"
+      bAllowDeletion=False
+      GraphGuid=6C8817D94810CEAC1C0E558F8B95838C
+   End Object
+   ParentClass="/Script/CoreUObject.Class'/Script/Engine.GameInstance'"
+   BlueprintSystemVersion=2
+   UbergraphPages(0)="/Script/Engine.EdGraph'EventGraph'"
+   NewVariables(0)=(VarName="CurrentLevel",VarGuid=E8286CD244B4D6DA2EE956B8E0F56FAD,VarType=(PinCategory="int"),FriendlyName="Current Level",Category=NSLOCTEXT("KismetSchema", "Default", "Default"),PropertyFlags=65541)
+   CategorySorting(0)="Default"
+   LastEditedDocuments(0)=(EditedObjectPath="/Game/BP_GameInstance.BP_GameInstance:EventGraph",SavedZoomAmount=1.000000)
+   GeneratedClass="/Script/Engine.BlueprintGeneratedClass'BP_GameInstance_C'"
+   bLegacyNeedToPurgeSkelRefs=False
+   BlueprintGuid=0E46374B42337D01D6D2AF8B42590F8D
+End Object
