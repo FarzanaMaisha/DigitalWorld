@@ -4820,3 +4820,23 @@ LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable
 [2026.05.10-04.38.16:718][639]LogSavePackage: Moving 'D:/Unreal Projects/DigitalWorld/DigitalWorld/Saved/WBP_Dialogue_L1_T3_Auto8AB55EE504C8FC933AF40A997FF3C73C4.tmp' to 'D:/Unreal Projects/DigitalWorld/DigitalWorld/Saved/Autosaves/Game/ThirdPerson/Blueprints/WBP_Dialogue_L1_T3_Auto8.uasset'
 [2026.05.10-04.38.16:718][639]LogFileHelpers: Auto-saving content packages took 0.022
 [2026.05.10-04.38.16:739][639]LogAutomationController: Ignoring very large delta of 4.53 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.05.10-04.39.15:759][817]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24523.251953
+[2026.05.10-04.39.16:758][820]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.10-04.39.16:758][820]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24523.917969, Update Interval: 336.838287
+[2026.05.10-04.39.36:421][879]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.10-04.39.36:521][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CityPark/Maps/Showcase" FILE="D:/Unreal Projects/DigitalWorld/DigitalWorld/Content/CityPark/Maps/Showcase.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.05.10-04.39.36:575][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.05.10-04.39.40:529][879]LogSavePackage: Moving output files for package: /Game/CityPark/Maps/Showcase
+[2026.05.10-04.39.40:530][879]LogSavePackage: Moving 'D:/Unreal Projects/DigitalWorld/DigitalWorld/Saved/Showcase3BD2018B46B490704270CDA081F9B9FD.tmp' to 'D:/Unreal Projects/DigitalWorld/DigitalWorld/Content/CityPark/Maps/Showcase.umap'
+[2026.05.10-04.39.40:544][879]LogFileHelpers: Saving map 'Showcase' took 4.024
+[2026.05.10-04.39.40:564][879]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.14 sec (total: 12.8 sec)
+[2026.05.10-04.39.40:670][879]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.10-04.39.40:671][879]LogContentValidation: Enabled validators:
+[2026.05.10-04.39.40:671][879]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.10-04.39.40:671][879]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.10-04.39.40:671][879]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.10-04.39.40:671][879]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.10-04.39.40:671][879]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.10-04.39.40:671][879]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.10-04.39.40:671][879]AssetCheck: /Game/CityPark/Maps/Showcase Validating asset
+[2026.05.10-04.39.40:702][879]LogAutomationController: Ignoring very large delta of 4.57 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
